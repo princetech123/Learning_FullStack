@@ -1,0 +1,15 @@
+.main {
+    margin-top: 100px;
+}
+
+/* Challenge - part 2: 
+Replace the element selectors with class selectors */
+.main-image {
+    display: block;
+    width: 300px;
+}
+
+.main-text {
+    display: block;
+    width: 400px;
+}

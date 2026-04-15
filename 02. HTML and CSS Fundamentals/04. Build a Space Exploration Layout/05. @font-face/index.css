@@ -1,0 +1,14 @@
+@font-face {
+    src: url("Corleone.ttf");
+    font-family: Corleone;
+}
+@font-face{
+    src: url("prince.ttf");
+    font-family: Prince;
+}
+h1 {
+    font-family: Corleone;
+}
+h2 {
+    font-family: Prince;
+}
