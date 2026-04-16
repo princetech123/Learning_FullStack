@@ -58,8 +58,11 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-.gift-img:hover {
+#gift-1:hover {
     background-image: url("images/happy.gif");
+}
+#gift-2:hover {
+    background-image: url("images/hot.gif");
 }
 
 /*
